@@ -1,0 +1,7 @@
+Maliha 9000
+ERANA 8000
+XYZ 4000
+Maliha 4000
+Erana 3000
+ABC 3000
+maliha 3000
